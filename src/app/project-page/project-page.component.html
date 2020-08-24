@@ -1,0 +1,36 @@
+<div class="container mt-3">
+  <div class="text-center">
+    <p class="display-4">Projects</p>
+    <blockquote class="blockquote">
+      <p class="mb-0">"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</p>
+      <footer class="blockquote-footer">Bill Gates</footer>
+    </blockquote>
+  </div>
+  <div class="border-bottom pb-2 text-center">
+      <a (click)="getProjects('all')"><button class="btn btn-outline-info mr-3 mb-2">ALL</button></a>
+      <a (click)="getProjects('mean')"><button class="btn btn-outline-info mr-3 mb-2">MEAN Stack</button></a>
+      <a (click)="getProjects('js')"><button class="btn btn-outline-info mr-3 mb-2">JS</button></a>
+      <a (click)="getProjects('php & wordpress')"><button class="btn btn-outline-info mr-3 mb-2">PHP & Wordpress</button></a>
+      <a (click)="getProjects('database')"><button class="btn btn-outline-info mr-3 mb-2">DataBase</button></a>
+      <a (click)="getProjects('responsive')"><button class="btn btn-outline-info mr-3 mb-2">Responsive Site</button></a>
+  </div>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 justify-content-center">
+    <app-project-card
+      *ngFor="let pd of projectData let i = index"
+      [projectDetails]="pd"
+      [index] ="i"></app-project-card>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+.footer{
+  min-height: 7vh;
+}
+i{
+  color: gray;
+  padding-right: 15px;
+}
+i:hover{
+  color: blue !important;
+}

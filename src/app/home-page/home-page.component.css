@@ -1,0 +1,27 @@
+.bg {
+  width: 100%;
+  height: 100vh;
+  background: url('../../assets/images/bacgImage.jpg') no-repeat center;
+  background-size: 100% 100%;
+  position: relative;
+  background-position: top center;
+}
+
+.carousel{
+  position: absolute;
+  left: 50%;
+  top: 20%;
+
+  width: 45vw;
+}
+
+.h5width{
+  width: 65vh;
+}
+.btns{
+  position: absolute;
+  left: 50%;
+  top: 55%;
+}
+
+

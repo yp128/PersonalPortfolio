@@ -1,0 +1,114 @@
+<div class="container my-4">
+  <div class="text-center">
+    <p class="display-3">Abilities</p>
+    <blockquote class="blockquote">
+      <p class="mb-0">"The noblest pleasure is the joy of understanding."</p>
+      <footer class="blockquote-footer">Leonardo da Vinci</footer>
+    </blockquote>
+  </div>
+  <hr>
+  <div>
+    <p style="font-size: 30px">Skills</p>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="row" *ngFor="let skillOne of skillSetOne">
+            <div class="col-sm-6 text-left">
+              <span>{{skillOne.name}}</span>
+            </div>
+            <div class="col-sm-6 justify-content-end">
+              <div class="progress">
+                <div class="progress-bar" role="progressbar" [style.width]="skillOne.level + '%' "></div>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="row" *ngFor="let skillTwo of skillSetTwo">
+          <div class="col-sm-6 text-left">
+            <span>{{skillTwo.name}}</span>
+          </div>
+          <div class="col-sm-6 justify-content-end">
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" [style.width]="skillTwo.level + '%' "></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <hr>
+  <div>
+    <p style="font-size: 30px">IDEs and Tools</p>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="row" *ngFor="let toolsOne of toolsSetOne">
+          <div class="col-sm-6 text-left">
+            <span>{{toolsOne.name}}</span>
+          </div>
+          <div class="col-sm-6 justify-content-end">
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" [style.width]="toolsOne.level + '%' "></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="row" *ngFor="let toolsTwo of toolsSetTwo">
+          <div class="col-sm-6 text-left">
+            <span>{{toolsTwo.name}}</span>
+          </div>
+          <div class="col-sm-6 justify-content-end">
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" [style.width]="toolsTwo.level + '%' "></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  <hr>
+  <div>
+    <p style="font-size: 30px">Languages</p>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="row" *ngFor="let languageOne of languageSetOne">
+          <div class="col-sm-6 text-left">
+            <span>{{languageOne.lang}}</span>
+          </div>
+          <div class="col-sm-6 justify-content-end">
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" [style.width]="languageOne.level + '%' "></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="row" *ngFor="let languageTwo of languageSetTwo">
+          <div class="col-sm-6 text-left">
+            <span>{{languageTwo.lang}}</span>
+          </div>
+          <div class="col-sm-6 justify-content-end">
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" [style.width]="languageTwo.level + '%' "></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+

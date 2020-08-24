@@ -1,0 +1,64 @@
+.overlay{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 100%;
+  width: 100%;
+  background-color: #050013de;
+  opacity: 0;
+  transition: .60s ease-in-out;
+}
+
+.ctr{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  padding-top: 50%;
+}
+
+.ctr p{
+  color: white;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.ctr a .btn{
+  margin-bottom: 20px;
+}
+
+.card:hover .overlay{
+  opacity: revert;
+}
+
+.multi-line-truncate {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+.title{
+  font-size: 18px;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 992px) {
+  .ctr{
+    padding-top: 40%;
+  }
+  .card{
+    height: 400px;
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .ctr{
+    padding-top: 25%;
+  }
+  .card{
+    width: 300px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+}
+

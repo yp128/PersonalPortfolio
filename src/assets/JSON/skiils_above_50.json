@@ -1,0 +1,184 @@
+{
+  "skills": [
+    {
+      "name": "JAVA",
+      "level": 90
+    },
+    {
+      "name": "PHP",
+      "level": 70
+    },
+    {
+      "name": "C#",
+      "level": 70
+    },
+    {
+      "name": "JavaScript",
+      "level": 75
+    },
+    {
+      "name": "NodeJS",
+      "level": 90
+    },
+    {
+      "name": "ExpressJS",
+      "level": 90
+    },
+    {
+      "name": "TypeScript",
+      "level": 80
+    },
+    {
+      "name": "MySQL",
+      "level": 75
+    },
+    {
+      "name": "MongoDB",
+      "level": 85
+    },
+    {
+      "name": "phpMyAdmin",
+      "level": 75
+    },
+    {
+      "name": "HTML5",
+      "level": 80
+    },
+    {
+      "name": "CSS3",
+      "level": 80
+    },
+    {
+      "name": "JSON",
+      "level": 90
+    },
+    {
+      "name": "XML",
+      "level": 40
+    },
+    {
+      "name": "Angular",
+      "level": 90
+    },
+    {
+      "name": "Bootstrap",
+      "level": 68
+    },
+    {
+      "name": "AJAX",
+      "level": 40
+    },
+    {
+      "name": "jQuery",
+      "level": 40
+    },
+    {
+      "name": "Jest",
+      "level": 65
+    },
+    {
+      "name": "Google Firebase",
+      "level": 40
+    },
+    {
+      "name": "XAMPP",
+      "level": 50
+    },
+    {
+      "name": "Scrum/Agile",
+      "level": 70
+    },
+    {
+      "name": "Wordpress",
+      "level": 40
+    },
+    {
+      "name": "SEO",
+      "level": 50
+    },
+    {
+      "name": "Google Analytics",
+      "level": 30
+    },
+    {
+      "name": "Google Tag Manager",
+      "level": 30
+    },
+    {
+      "name": "Regular Expressions",
+      "level": 80
+    }
+  ],
+  "language": [
+    {
+      "lang": "Gujarati",
+      "level": 100
+    },
+    {
+      "lang": "English(Daily Use)",
+      "level": 90
+    },
+    {
+      "lang": "Hindi(Mother Tounge)",
+      "level": 100
+    }
+  ],
+  "tools": [
+    {
+      "name": "Eclipse",
+      "level": 70
+    },
+    {
+      "name": "Android studio",
+      "level": 60
+    },
+    {
+      "name": "Web Storm",
+      "level": 90
+    },
+    {
+      "name": "NetBeans",
+      "level": 70
+    },
+    {
+      "name":"MySQL Workbench" ,
+      "level":80
+    },
+    {
+      "name": "Microsoft Office Tools" ,
+      "level": 80
+    },
+    {
+      "name": "Postman",
+      "level": 80
+    },
+    {
+      "name": "Microsoft Visual Studio" ,
+      "level": 70
+    },
+    {
+      "name": "GitHub" ,
+      "level": 65
+    },
+    {
+      "name": "FileZilla" ,
+      "level": 20
+    },
+    {
+      "name": "Windows",
+      "level": 100
+    },
+    {
+      "name": "Linux" ,
+      "level": 30
+    },
+    {
+      "name": "Chrome",
+      "level": 90
+    },
+    {
+      "name": "Visual Studio Code",
+      "level": 90
+    }
+  ]
+}

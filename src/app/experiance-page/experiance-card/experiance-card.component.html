@@ -1,0 +1,19 @@
+
+<div class="card m-xl-5 m-lg-4 m-3 shadow-lg  text-center d-flex">
+  <img src="../..{{experiance.image}}" class="img-fluid card-img-top" width="100px" style="height: 30vh">
+  <div class="card-body">
+    <div class="card-title">
+      <p class="title">{{experiance.position}}</p>
+    </div>
+    <div class="card-text mb-2">
+      {{experiance.comapnyName}}
+    </div>
+    <div class="card-text mb-3">
+      {{experiance.startDate}} - {{experiance.endDate}}
+    </div>
+  </div>
+  <div class="overlay ctr ">
+    <p style="color: white">{{experiance.position}}</p>
+    <a (click)="getExperianceDetail()" target="_blank"><button class="btn btn-outline-info">Learn More</button></a>
+  </div>
+</div>

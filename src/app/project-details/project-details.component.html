@@ -1,0 +1,45 @@
+
+<div class="container mt-2">
+  <div class="card p-2 shadow-lg">
+    <div class="row">
+      <div class="col-md-6 col-lg-5">
+          <img src="..{{projectDetail.image}}" class="img-fluid mh-100" style="width: 100%; height: 100%" alt="">
+      </div>
+      <div class=" col-lg-7 col-md-6">
+        <div class="card-title">
+          <label class="position">{{projectDetail.projectName}}</label>
+          <p class="figure-caption">{{projectDetail.projectIntro}}</p>
+        </div>
+        <div class="card-text">
+          <label class="border-bottom-1">Used Technologies: </label>
+          <hr class="mt-0 shadow">
+          <ul>
+            <label *ngFor="let skill of projectDetail.technologiesUsed let i = index"
+                   class="bg-success text-light py-1 px-2 mr-1 rounded-pill">
+              <small> {{skill}}</small>
+            </label>
+          </ul>
+        </div>
+        <div class="card-text">
+          <label class="border-bottom-1">Derscription: </label>
+          <hr class="mt-0 shadow">
+          <ul>
+            <li *ngFor="let desc of projectDetail.projectDescription">{{desc}}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

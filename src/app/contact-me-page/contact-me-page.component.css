@@ -1,0 +1,34 @@
+.bg{
+  margin-top: 10px;
+  width: 60%;
+}
+form{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+i{
+  color: gray;
+  padding-right: 15px;
+}
+i:hover{
+  color: blue !important;
+}
+.loading{
+  width: 90vw;
+  height: 80vh;
+}
+
+.loading img{
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+.blur{
+  opacity: 0.4;
+}
+
+

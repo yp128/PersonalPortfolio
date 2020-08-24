@@ -1,0 +1,10 @@
+div{
+  color: #000000;
+}
+.container{
+  width: 80%;
+}
+.nav-link{
+  color: #000000 !important;
+  font-weight: 400;
+}

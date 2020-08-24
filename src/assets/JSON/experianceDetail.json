@@ -1,0 +1,37 @@
+[
+  {
+    "image": "../../assets/images/advantmed.jpg",
+    "position": "Software Engineer Intern",
+    "comapnyName": "Advantmed India LLP",
+    "startDate":"January 2018",
+    "endDate": "March 2018",
+    "technology": ["C#",
+      "SQL",
+      "ASP.NET Core",
+      "Bootstrap",
+      "HTML"
+    ],
+    "jobDuties": ["Participated in the implementation of client side and server-side programming using MySQL, ASP.NET, Bootstrap, HTML5 and CSS3.",
+    "Improved knowledge on SQL Join queries and app security by implementing Authentication and Authorization.",
+    "Implemented web form Validations by creating RegEx.",
+    "Developed Application using Test Driven Development, also written Integration tests."
+  ]
+  },
+  {
+    "image": "../../assets/images/advantmed.jpg",
+    "position": "Software Engineer Intern",
+    "comapnyName": "Advantmed India LLP",
+    "startDate":"July 2017",
+    "endDate": "September 2017",
+    "technology": ["C#",
+      "SQL",
+      "ASP.NET Core",
+      "Bootstrap",
+      "HTML"
+    ],
+    "jobDuties": ["Worked under Senior Team members and got knowledge of Agile Methodologies.",
+      "Enhanced the knowledge of the ASP.NET object-oriented programming and relational database concepts.",
+      "Utilized the Microsoft visual studio and SQL server management throughout the internship."
+    ]
+  }
+]

@@ -1,0 +1,190 @@
+ [
+   {
+   "image": "../../assets/images/romato.jpg",
+   "projectName": "Romato",
+   "projectIntro": "A food ordering application created using full stack development",
+   "technologiesUsed": ["NoSQL(MongoDB)",
+     "NodeJS",
+     "ExpressJS",
+     "Angular",
+     "HTML",
+     "CSS",
+     "BootStrap",
+     "AngularMaterial",
+     "Jest",
+     "TypeScript",
+     "GitHub",
+     "Agile Methodology"
+   ],
+   "projectDescription": ["Requirement gathering for capstone project and participated in project planning sessions with team members.",
+     "Implement the complete project based on agile methodology/SCRUM",
+     "Used NoSQL (MongoDB) to store data and mongoose NPM module to interact with MongoDB",
+     "Developed dynamic web content using Angular 9, HTML 5, Typescript, Bootstrap, CSS and jQuery",
+     "Participated in the implementation of client-side and server-side programming using HTML, CSS, Typescript, NodeJS, Express JS, Angular 9, Bootstrap 4 and other NPM modules",
+     "Involved in debugging and unit testing using Jest",
+     "Used GitHub for Version Control"
+   ],
+     "type": ["all","mean","responsive"],
+     "mainLang": "MEAN Stack",
+     "gitRepo": "https://github.com/ChanpreetSingh05/Romato"
+    },
+   {
+     "image": "../../assets/images/backgroundImage.jpg",
+     "projectName": "Mobile Store",
+     "projectIntro": "An E-commerce site fro mobles using MEAN Stack as a part of academic project",
+     "technologiesUsed": ["NoSQL(MongoDB)",
+       "NodeJS",
+       "ExpressJS",
+       "Angular",
+       "HTML",
+       "CSS",
+       "TypeScript"
+     ],
+     "projectDescription": ["Created API using NodeJS and ExpressJS and used that API for project",
+       "Designed front-end using Angular, HTML and CSS",
+       "used MongoDB as a NoSQL database to store the data"
+     ],
+     "type": ["all","mean","responsive"],
+     "mainLang": "MEAN Stack",
+     "gitRepo": "#"
+   },
+   {
+     "image": "../../assets/images/portfolio.jpg",
+     "projectName": "Personal Portfolio",
+     "projectIntro": "A personal portfolio containing all the projects, experiance, skills and academic achivement",
+     "technologiesUsed": ["JSON",
+       "Angular",
+       "HTML",
+       "CSS",
+       "BootStrap",
+       "TypeScript",
+       "GitHub"
+     ],
+     "projectDescription": ["store all the data of projects and experiance in JSON file",
+       "Used angular, HTML, CSS and Bootstarp to make good and apealing frontend",
+       "Implemented typescript functions to filter the data and get the data from JSON file",
+       "Provide effective navigation using angular routing and made a perfect single page application"
+     ],
+     "type": ["all","js","responsive"],
+     "mainLang": "Angular",
+     "gitRepo": "https://github.com/yp128/PortFolio"
+   },
+   {
+     "image": "../../assets/images/API.jpg",
+     "projectName": "Task Manager API ",
+     "projectIntro": "Implemented an API with authentication and authorization to store user's tasks",
+     "technologiesUsed": ["NoSQL(MongoDB)",
+       "NodeJS",
+       "ExpressJS",
+       "Jest",
+       "GitHub",
+       "NPM Modules"
+     ],
+     "projectDescription": ["Created an API using Node JS and Express JS with secure authentication and authorization",
+     "Used JsonWebTokens (JWT) to provide secure and stable authentication",
+     "Implemented mail service using Node Mailer module of NPM",
+     "Write some unit testing using JavaScript testing library Jest along with Super test module",
+     "Task Manager API: https://yash-task-manager-api.herokuapp.com/ (works with Postman)"
+   ],
+     "type": ["all","js"],
+     "mainLang": "NodeJS",
+     "gitRepo": "https://github.com/yp128/Node_Task_Manager_API"
+   },
+   {
+     "image": "../../assets/images/weather.jpg",
+     "projectName": "Weather ",
+     "projectIntro": "Display the wether of entered city using Mapbox API and Weather Stack API",
+     "technologiesUsed": ["NodeJS",
+       "HTML",
+       "CSS",
+       "Weather Stack API",
+       "Map Box API"
+     ],
+     "projectDescription": ["Used basic HTML, CSS, to make UI more appealing",
+     "Get the data from map box API and inject it to weather stack API to get real time weather information of provided location",
+     "Get the help from express, request and HBS module from NPM library to send request and et the data",
+     "Deployed the app on Heroku web hosting site using SSH key",
+     "Weather App: https://yash128-weather-app.herokuapp.com/home"
+   ],
+     "type": ["all","js"],
+     "mainLang": "NodeJS",
+     "gitRepo": "https://github.com/yp128/WeatherApp-NodeJS"
+   },
+   {
+     "image": "../../assets/images/pizza.jpg",
+     "projectName": "My Pizza Store",
+     "projectIntro": "A front-end application using Javascript, CSS and HTML where customer can order food",
+     "technologiesUsed": ["HTML",
+       "CSS",
+       "JavaScript"],
+     "projectDescription": ["An online web application to order food application using JavaScript, CSS and HTML.",
+       "Used session and cookies to store the order data till checkout."
+     ],
+     "type": ["all","js"],
+     "mainLang": "JavaScript",
+     "gitRepo": "https://github.com/yp128/MyPizzaStore"
+   },
+   {
+     "image": "../../assets/images/php.jpg",
+     "projectName": "Shopping Cart",
+     "projectIntro": "Created responsive shopping Cart using PHP, HTML, CSS, BootStrap and phpMyAdmin",
+     "technologiesUsed": ["PHP",
+       "CSS",
+       "HTML",
+       "BootStrap",
+       "phpMyAdmin"
+     ],
+     "projectDescription": ["Created a shopping cart using HTML, CSS and bootstrap for front end, PHP as a backend and MySQL as a database as a part of subject project and upgrade it afterward",
+       "Used a large range of built-in function and created some of mine in order to make it more real and attractive",
+       "Used a session to store items in the cart and developed it using a agile methodology",
+       "Create inventory database which update all the table when someone purchase something "
+     ],
+     "type": ["all","php & wordpress","responsive"],
+     "mainLang": "PHP",
+     "gitRepo": "https://github.com/yp128/ShoppingCart-PHP-"
+   },
+   {
+     "image": "../../assets/images/database.jpg",
+     "projectName": "Music store database",
+     "projectIntro": "created a normalize databse for a music store as a part of academic project",
+     "technologiesUsed": ["MySQL"
+     ],
+     "projectDescription": ["Created a normalize databse for a music store as a part of academic project.",
+       "Implemented stored procedure and functions."
+     ],
+     "type": ["all","database"],
+     "mainLang": "MySQL",
+     "gitRepo": "#"
+   },
+   {
+     "image": "../../assets/images/pharmaPix.jpg",
+     "projectName": "Pharma Easy",
+     "projectIntro": "A responsive website using HTML5 and CSS3 as a part of academic project",
+     "technologiesUsed": ["HTML",
+       "CSS"
+     ],
+     "projectDescription": ["A responsive site using CSS and HTML.",
+       "Used variety of html attribute",
+       "implemented differenttypes of css properties to make it responsive"
+     ],
+     "type": ["all", "responsive"],
+     "mainLang": "HTML",
+     "gitRepo": "https://github.com/yp128/PharmaPix"
+   },
+   {
+     "image": "/assets/images/d3charts.jpg",
+     "projectName": "Charts",
+     "projectIntro": "created some visual charts from given data using d3.js as a part of academic project",
+     "technologiesUsed": ["d3.js",
+       "HTML",
+       "CSS"
+     ],
+     "projectDescription": ["created some visual charts from given data using d3.js as a part of academic project.",
+       "Used HTML and CSS to make front page more apealing"
+     ],
+     "type": ["all","js"],
+     "mainLang": "D3.JS",
+     "gitRepo": "#"
+   }
+ ]
+

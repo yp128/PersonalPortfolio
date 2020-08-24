@@ -1,0 +1,42 @@
+.skills{
+  color: black;
+  font-weight: 600;
+  display: inline;
+  font-size: 15px;
+}
+
+.skills_name{
+  display: inline;
+  font-size: 15px;
+}
+
+.cont{
+  width: 70vw;
+}
+.li_font{
+  font-size: 15px;
+}
+
+i{
+  color: gray;
+  margin-right: 10px;
+}
+
+i:hover{
+  color: blue !important;
+}
+
+.subTitle{
+  font-size: 29px;
+  font-weight: 300;
+}
+
+.abutDesc{
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.detailText{
+  font-size: 18px;
+  font-weight: 500;
+}

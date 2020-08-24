@@ -1,0 +1,39 @@
+<div class="card m-xl-5 m-lg-4 m-3 shadow-lg  text-center">
+  <img src="../..{{projectDetails.image}}" class="img-fluid card-img-top" width="100px" style="height: 30vh">
+  <div class="card-body">
+    <div class="card-title">
+      <p class="title">{{projectDetails.projectName}}</p>
+    </div>
+    <div class="card-text multi-line-truncate">
+      {{projectDetails.projectIntro}}
+    </div>
+    <div class="pt-3">
+      <p class="figure-caption">Based On: {{projectDetails.mainLang}}</p>
+    </div>
+  </div>
+    <div class="overlay ctr ">
+      <p style="color: white">{{projectDetails.projectName}}</p>
+      <a (click)="getTheProjectDetail()" target="_blank"><button class="btn btn-outline-info">Learn More</button></a><br>
+      <a href="{{projectDetails.gitRepo}}" target="_blank"><button class="btn btn-outline-info">View On GitHub</button></a>
+    </div>
+</div>
+
+
+<!--<div class="row">-->
+<!--  <div class="col-4">-->
+<!--    <img src="../..{{projectDetails.image}}" class="img-fluid card-img p-0 m-0" width="100px" style="height: 30vh">-->
+<!--  </div>-->
+<!--  <div class="col-8">-->
+<!--    <div class="card-body">-->
+<!--      <div class="card-title">-->
+<!--        {{projectDetails.projectName}}-->
+<!--      </div>-->
+<!--      <div class="card-text ">-->
+<!--        <small>{{projectDetails.projectIntro}}</small>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--  <div class="overlay ctr ">-->
+<!--    <a (click)="getTheProjectDetail()" target="_blank"><button class="btn btn-outline-info">CLick Me</button></a>-->
+<!--  </div>-->
+<!--</div>-->

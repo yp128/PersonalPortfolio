@@ -1,0 +1,56 @@
+a{
+    cursor: pointer;
+}
+
+.logo{
+    font-size: 22px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+nav{
+  height: 60px;
+  background-color: transparent;
+
+}
+.navbar-nav{
+  padding-top: 1.5px;
+}
+
+.navbar {
+  z-index: 9999;
+}
+
+.nav-link{
+  color: #000000 !important;
+  font-weight: 400;
+}
+
+.logo{
+  color: #000000 !important;
+  font-weight: 600;
+}
+
+.actvLink{
+  border-bottom: 1px red solid;
+}
+
+@media only screen and (max-width: 767px) {
+
+  .nav-link{
+    color: #000000 !important;
+    font-weight: 400;
+  }
+  #myNav{
+    text-align: center;
+    background-color: white;
+    color: white;
+    width: 100vw;
+    font-weight: 500;
+  }
+  .fas:hover{
+   color: blue;
+  }
+}
+
+

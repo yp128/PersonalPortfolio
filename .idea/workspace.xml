@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b664093-86fb-4219-91d6-2dde4065da6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fugCwyIjgOs4xbt7VbrkV9Gdon" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Backend" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\WEB ANALYSIS\YashPortfolio\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WEB ANALYSIS\YashPortfolio" />
+      <recent name="E:\WEB ANALYSIS\YashPortfolio\src\assets\images" />
+      <recent name="E:\WEB ANALYSIS\YashPortfolio\src\assets\resume" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WEB ANALYSIS\YashPortfolio" />
+      <recent name="E:\WEB ANALYSIS\YashPortfolio\src\assets" />
+      <recent name="E:\WEB ANALYSIS\YashPortfolio\src" />
+      <recent name="E:\WEB ANALYSIS\YashPortfolio\Backend" />
+      <recent name="E:\WEB ANALYSIS\YashPortfolio\src\assets\JSON" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (YashPortfolio)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (YashPortfolio)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b664093-86fb-4219-91d6-2dde4065da6b" name="Default Changelist" comment="" />
+      <created>1597073267653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597073267653</updated>
+      <workItem from="1597073271472" duration="68000" />
+      <workItem from="1597073418814" duration="20736000" />
+      <workItem from="1597152053375" duration="44254000" />
+      <workItem from="1597264250977" duration="18107000" />
+      <workItem from="1597368809192" duration="6639000" />
+      <workItem from="1597376818490" duration="8566000" />
+      <workItem from="1597507682147" duration="2934000" />
+      <workItem from="1597585143409" duration="37219000" />
+      <workItem from="1597684792872" duration="836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597673825001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597673825001" />
+    <state x="400" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597674445832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597674445832" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1598287389941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598287389941" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1597262830660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597262830660" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1597262830660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597262830660" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1597262830659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597262830659" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1597262830660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597262830660" />
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597185825020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1597185825020" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1597186800095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597186800095" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597180097356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597180097356" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/project-page/project-page.component.ts</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
